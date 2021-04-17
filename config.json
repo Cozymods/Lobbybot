@@ -1,16 +1,16 @@
 {
-  "email": "lobbybot522@outlook.com",
-  "password": "Hamber2244",
-  "cid": "CID_479_Athena_Commando_F_Davinci",
+  "email": "",
+  "password":"",
+  "cid": "CID_028_Athena_Commando_F",
   "bid": "BID_001_BlueSquire",
   "pid": "Pickaxe_Lockjaw",
-  "banner": "BRS10DoublePump",
+  "banner": "otherbanner27",
   "banner_color": "defaultcolor15",
-  "level": "590",
-  "bp_tier": "999999999999",
-  "status": "Hello",
+  "level": "999",
+  "bp_tier": "999",
+  "status": "use code CozyTorashi",
   "platform": "WIN",
   "friendaccept": "True",
   "joinoninvite": "True",
-  "AdminPassword": "7892"
+  "AdminPassword": "5981"
 }
