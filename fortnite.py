@@ -40,7 +40,7 @@ print(intro)
 response = requests.get("https://benbotfn.tk/api/v1/status")
 patch = response.json()["currentFortniteVersion"]
 
-print(f'\n A free lobbybot network, created by KaosDrip. Fixed by Aspect#0002 for Patch {patch}.\n')
+print(f'\n A free lobbybot network, created by CozyMods. Fixed by CozyMods for Patch {patch}.\n')
 
 def lenPartyMembers():
     members = client.party.members
